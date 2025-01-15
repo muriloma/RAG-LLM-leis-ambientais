@@ -1,0 +1,13 @@
+[
+  {
+    "number": 43,
+    "question": "A lei prevê mudanças em qual decreto-lei?",
+    "options": {
+      "a": "Decreto-Lei nº 1.804/1980",
+      "b": "Decreto-Lei nº 5.678/1995",
+      "c": "Decreto-Lei nº 9.455/1997",
+      "d": "Decreto-Lei nº 3.333/2001",
+      "e": "Decreto-Lei nº 7.250/2005"
+    }
+  }
+]

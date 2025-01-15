@@ -1,0 +1,552 @@
+[
+  {
+    "number": 1,
+    "question": "Qual é o principal objetivo da Lei nº 14.850/2024?",
+    "options": {
+      "a": "Regular o uso de recursos hídricos",
+      "b": "Instituir a Política Nacional de Qualidade do Ar",
+      "c": "Controlar a emissão de gases de efeito estufa",
+      "d": "Estabelecer normas para o desmatamento",
+      "e": "Definir políticas de saneamento básico"
+    }
+  },
+  {
+    "number": 2,
+    "question": "Quem deve cumprir as normas estabelecidas por esta lei?",
+    "options": {
+      "a": "Apenas empresas privadas",
+      "b": "Somente órgãos públicos",
+      "c": "Pessoas físicas e jurídicas, públicas ou privadas",
+      "d": "Apenas indústrias de grande porte",
+      "e": "Somente municípios"
+    }
+  },
+  {
+    "number": 3,
+    "question": "Qual princípio NÃO está incluído na Política Nacional de Qualidade do Ar?",
+    "options": {
+      "a": "Prevenção e precaução",
+      "b": "Desenvolvimento sustentável",
+      "c": "Poluidor-pagador",
+      "d": "Lucro acima de tudo",
+      "e": "Respeito às diversidades regionais"
+    }
+  },
+  {
+    "number": 4,
+    "question": "Um dos objetivos da lei é:",
+    "options": {
+      "a": "Aumentar a emissão de poluentes",
+      "b": "Reduzir progressivamente as emissões atmosféricas",
+      "c": "Eliminar todas as indústrias poluentes imediatamente",
+      "d": "Incentivar o uso de combustíveis fósseis",
+      "e": "Desconsiderar a saúde pública"
+    }
+  },
+  {
+    "number": 5,
+    "question": "O que são \"padrões de qualidade do ar\" segundo a lei?",
+    "options": {
+      "a": "Limites máximos de emissão de ruídos",
+      "b": "Níveis aceitáveis de poluentes no ar",
+      "c": "Quantidade mínima de oxigênio necessária",
+      "d": "Parâmetros para a qualidade da água",
+      "e": "Normas para a iluminação pública"
+    }
+  },
+  {
+    "number": 6,
+    "question": "Quem é responsável pelo monitoramento da qualidade do ar?",
+    "options": {
+      "a": "Apenas o governo federal",
+      "b": "Somente as prefeituras",
+      "c": "Órgãos e instituições integrantes do Sisnama",
+      "d": "Empresas privadas de energia",
+      "e": "Organizações não governamentais"
+    }
+  },
+  {
+    "number": 7,
+    "question": "O que é o MonitorAr?",
+    "options": {
+      "a": "Um programa de reciclagem",
+      "b": "Sistema Nacional de Gestão da Qualidade do Ar",
+      "c": "Aplicativo de previsão do tempo",
+      "d": "Projeto de reflorestamento",
+      "e": "Campanha de conscientização ambiental"
+    }
+  },
+  {
+    "number": 8,
+    "question": "Qual é a função do Guia Técnico para o Monitoramento e a Avaliação da Qualidade do Ar?",
+    "options": {
+      "a": "Definir padrões de qualidade da água",
+      "b": "Orientar sobre o monitoramento da qualidade do ar",
+      "c": "Estabelecer normas de trânsito",
+      "d": "Regular a pesca em rios",
+      "e": "Controlar a emissão de sons urbanos"
+    }
+  },
+  {
+    "number": 9,
+    "question": "Os Estados e o Distrito Federal devem elaborar qual documento anualmente?",
+    "options": {
+      "a": "Relatório de Avaliação da Qualidade do Ar",
+      "b": "Plano Diretor Urbano",
+      "c": "Relatório de Segurança Pública",
+      "d": "Plano de Educação Ambiental",
+      "e": "Relatório de Recursos Hídricos"
+    }
+  },
+  {
+    "number": 10,
+    "question": "O que é o Pronar?",
+    "options": {
+      "a": "Programa Nacional de Controle da Qualidade do Ar",
+      "b": "Projeto Nacional de Reciclagem",
+      "c": "Plano de Recuperação de Áreas Degradadas",
+      "d": "Programa de Reflorestamento Nacional",
+      "e": "Projeto de Navegação Aérea"
+    }
+  },
+  {
+    "number": 11,
+    "question": "Qual é a vigência do Plano Nacional de Gestão da Qualidade do Ar?",
+    "options": {
+      "a": "5 anos",
+      "b": "10 anos",
+      "c": "20 anos",
+      "d": "Indeterminada, com atualizações a cada 4 anos",
+      "e": "Indeterminada, sem necessidade de atualizações"
+    }
+  },
+  {
+    "number": 12,
+    "question": "O que são limites máximos de emissão atmosférica?",
+    "options": {
+      "a": "Valores mínimos de poluentes permitidos no ar",
+      "b": "Níveis máximos de poluentes que uma fonte pode emitir",
+      "c": "Quantidade de água que pode ser consumida",
+      "d": "Limites de ruídos em áreas urbanas",
+      "e": "Parâmetros para a iluminação pública"
+    }
+  },
+  {
+    "number": 13,
+    "question": "Qual programa visa controlar a poluição por veículos automotores?",
+    "options": {
+      "a": "Proconve",
+      "b": "Promot",
+      "c": "Pronar",
+      "d": "MonitorAr",
+      "e": "I/M"
+    }
+  },
+  {
+    "number": 14,
+    "question": "Quem deve apresentar os Relatórios de Qualidade do Ar?",
+    "options": {
+      "a": "Municípios com mais de 200 mil habitantes",
+      "b": "Qualquer empresa que polua o ar",
+      "c": "Todos os estados e o Distrito Federal",
+      "d": "Somente ONGs ambientais",
+      "e": "Prefeituras das capitais"
+    }
+  },
+  {
+    "number": 15,
+    "question": "Qual é uma das penalidades para quem descumprir a lei?",
+    "options": {
+      "a": "Advertência verbal",
+      "b": "Multa e suspensão das atividades",
+      "c": "Redução de impostos",
+      "d": "Aumento de crédito bancário",
+      "e": "Nenhuma penalidade"
+    }
+  },
+  {
+    "number": 16,
+    "question": "O que significa “poluidor-pagador”?",
+    "options": {
+      "a": "O poluidor paga multas simbólicas",
+      "b": "Quem polui deve arcar com os custos ambientais",
+      "c": "O poluidor é premiado por reduzir a poluição",
+      "d": "É um título concedido ao maior poluidor",
+      "e": "Nada, é apenas um termo técnico"
+    }
+  },
+  {
+    "number": 17,
+    "question": "A quem cabe fiscalizar o cumprimento da lei?",
+    "options": {
+      "a": "Apenas ao Ministério da Saúde",
+      "b": "Organizações não governamentais",
+      "c": "Órgãos ambientais competentes",
+      "d": "Empresas privadas contratadas",
+      "e": "Instituições de ensino"
+    }
+  },
+  {
+    "number": 18,
+    "question": "Qual é a principal meta do Proconve?",
+    "options": {
+      "a": "Reduzir o uso de combustíveis fósseis",
+      "b": "Diminuir a emissão de poluentes por veículos",
+      "c": "Aumentar a produção de carros elétricos",
+      "d": "Melhorar a infraestrutura urbana",
+      "e": "Fiscalizar indústrias"
+    }
+  },
+  {
+    "number": 19,
+    "question": "Como o cidadão pode contribuir para o cumprimento da lei?",
+    "options": {
+      "a": "Denunciando irregularidades ambientais",
+      "b": "Deixando de usar transporte público",
+      "c": "Comprando mais carros",
+      "d": "Usando produtos não certificados",
+      "e": "Não há como contribuir"
+    }
+  },
+  {
+    "number": 20,
+    "question": "O que é responsabilidade compartilhada?",
+    "options": {
+      "a": "Apenas o governo é responsável pelo meio ambiente",
+      "b": "Somente as indústrias respondem pelo impacto ambiental",
+      "c": "Todos são responsáveis pela preservação ambiental",
+      "d": "ONGs têm total responsabilidade",
+      "e": "Nenhuma das anteriores"
+    }
+  },
+  {
+    "number": 21,
+    "question": "O que acontece se uma empresa não apresentar planos de mitigação de poluentes?",
+    "options": {
+      "a": "Nada acontece",
+      "b": "A empresa é multada e pode ser fechada",
+      "c": "A empresa ganha um prazo extra",
+      "d": "A empresa recebe isenção fiscal",
+      "e": "A empresa perde a licença comercial"
+    }
+  },
+  {
+    "number": 22,
+    "question": "A educação ambiental deve ser:",
+    "options": {
+      "a": "Opcional nas escolas",
+      "b": "Limitada ao ensino médio",
+      "c": "Parte obrigatória do currículo escolar",
+      "d": "Exclusiva para universidades",
+      "e": "Oferecida apenas para adultos"
+    }
+  },
+  {
+    "number": 23,
+    "question": "O que caracteriza o desenvolvimento sustentável?",
+    "options": {
+      "a": "Crescimento econômico a qualquer custo",
+      "b": "Uso consciente dos recursos naturais",
+      "c": "Aumento da exploração de minérios",
+      "d": "Exclusão das populações indígenas",
+      "e": "Expansão urbana desordenada"
+    }
+  },
+  {
+    "number": 24,
+    "question": "Quem é responsável pelo licenciamento ambiental?",
+    "options": {
+      "a": "Apenas o IBAMA",
+      "b": "Prefeituras municipais",
+      "c": "Órgãos estaduais e federais competentes",
+      "d": "Empresas privadas",
+      "e": "ONGs ambientais"
+    }
+  },
+  {
+    "number": 25,
+    "question": "O que é um impacto ambiental significativo?",
+    "options": {
+      "a": "Um pequeno dano natural",
+      "b": "Qualquer dano ao meio ambiente",
+      "c": "Um dano que afeta gravemente o ecossistema",
+      "d": "Apenas danos urbanos",
+      "e": "Danos sem necessidade de reparo"
+    }
+  },
+  {
+    "number": 26,
+    "question": "Como as empresas devem relatar suas emissões?",
+    "options": {
+      "a": "Através de comunicados nas redes sociais",
+      "b": "Por meio de relatórios periódicos",
+      "c": "Por e-mails semanais",
+      "d": "Não precisam relatar",
+      "e": "De forma verbal ao governo"
+    }
+  },
+  {
+    "number": 27,
+    "question": "Qual é o foco principal da Lei nº 14.904/2024?",
+    "options": {
+      "a": "Regular o uso da água",
+      "b": "Implementar políticas climáticas de adaptação e mitigação",
+      "c": "Incentivar a mineração sustentável",
+      "d": "Expandir áreas urbanas",
+      "e": "Controlar poluição sonora"
+    }
+  },
+  {
+    "number": 28,
+    "question": "O que é mitigação climática?",
+    "options": {
+      "a": "Aumento do uso de combustíveis fósseis",
+      "b": "Adoção de medidas para reduzir os efeitos das mudanças climáticas",
+      "c": "Incentivo ao desmatamento",
+      "d": "Uso ilimitado de recursos naturais",
+      "e": "Construção de mais indústrias"
+    }
+  },
+  {
+    "number": 29,
+    "question": "Qual é um exemplo de adaptação climática?",
+    "options": {
+      "a": "Plantar árvores em áreas urbanas",
+      "b": "Construir prédios mais altos",
+      "c": "Incentivar o uso de carvão",
+      "d": "Proibir o uso de água potável",
+      "e": "Nada pode ser feito"
+    }
+  },
+  {
+    "number": 30,
+    "question": "Quem deve criar planos de adaptação climática?",
+    "options": {
+      "a": "Apenas ONGs ambientais",
+      "b": "Municípios e estados",
+      "c": "Empresas privadas",
+      "d": "Escolas públicas",
+      "e": "Não há exigência"
+    }
+  },
+  {
+    "number": 31,
+    "question": "O que é neutralidade climática?",
+    "options": {
+      "a": "Emitir mais gases de efeito estufa",
+      "b": "Reduzir emissões ao máximo e compensar o restante",
+      "c": "Ignorar a poluição atmosférica",
+      "d": "Usar combustíveis não certificados",
+      "e": "Nenhuma das anteriores"
+    }
+  },
+  {
+    "number": 32,
+    "question": "Qual órgão centraliza as informações climáticas no Brasil?",
+    "options": {
+      "a": "INPE",
+      "b": "IBGE",
+      "c": "MMA",
+      "d": "MAPA",
+      "e": "ANP"
+    }
+  },
+  {
+    "number": 33,
+    "question": "O que é o inventário de emissões de gases de efeito estufa?",
+    "options": {
+      "a": "Uma lista de animais extintos",
+      "b": "Um relatório sobre poluição sonora",
+      "c": "Um relatório detalhado sobre emissões de gases poluentes",
+      "d": "Um mapa das florestas brasileiras",
+      "e": "Um estudo sobre chuvas"
+    }
+  },
+  {
+    "number": 34,
+    "question": "Como é chamado o compromisso de um país em reduzir suas emissões?",
+    "options": {
+      "a": "Acordo Verde",
+      "b": "NDC (Contribuição Nacionalmente Determinada)",
+      "c": "Relatório Climático",
+      "d": "Protocolo Ambiental",
+      "e": "Meta Sustentável"
+    }
+  },
+  {
+    "number": 35,
+    "question": "Qual setor é um grande responsável pelas emissões de gases no Brasil?",
+    "options": {
+      "a": "Setor bancário",
+      "b": "Agricultura e pecuária",
+      "c": "Turismo",
+      "d": "Comércio exterior",
+      "e": "Setor de telecomunicações"
+    }
+  },
+  {
+    "number": 36,
+    "question": "Qual é o principal objetivo da Lei nº 14.902/2024?",
+    "options": {
+      "a": "Incentivar a produção de combustíveis fósseis",
+      "b": "Reduzir impostos para montadoras tradicionais",
+      "c": "Promover a mobilidade sustentável e inovação no setor automotivo",
+      "d": "Aumentar a exportação de carros convencionais",
+      "e": "Regular o uso de bicicletas elétricas"
+    }
+  },
+  {
+    "number": 37,
+    "question": "O que significa “Programa Mover”?",
+    "options": {
+      "a": "Mobilidade, Verde e Recursos",
+      "b": "Mobilidade e Eficiência Rodoviária",
+      "c": "Mobilidade Verde e Inovação",
+      "d": "Movimento Energético Verde",
+      "e": "Monitoramento Veicular Ecológico"
+    }
+  },
+  {
+    "number": 38,
+    "question": "O que a lei busca reduzir?",
+    "options": {
+      "a": "A fabricação de carros elétricos",
+      "b": "A emissão de gases poluentes",
+      "c": "O uso de biocombustíveis",
+      "d": "O preço da gasolina",
+      "e": "A venda de carros híbridos"
+    }
+  },
+  {
+    "number": 39,
+    "question": "O que é o “IPI Verde”?",
+    "options": {
+      "a": "Um imposto sobre combustíveis fósseis",
+      "b": "Uma nova tabela de imposto para veículos sustentáveis",
+      "c": "Uma taxa para importação de carros",
+      "d": "Um incentivo para motos elétricas",
+      "e": "Um programa de plantio de árvores"
+    }
+  },
+  {
+    "number": 40,
+    "question": "Quem é responsável por monitorar o Programa Mover?",
+    "options": {
+      "a": "ONGs internacionais",
+      "b": "Um grupo de acompanhamento governamental",
+      "c": "Somente os fabricantes de veículos",
+      "d": "As prefeituras das capitais",
+      "e": "Escolas técnicas automotivas"
+    }
+  },
+  {
+    "number": 41,
+    "question": "Qual setor é diretamente impactado pela Lei nº 14.902?",
+    "options": {
+      "a": "Indústria automotiva",
+      "b": "Agricultura",
+      "c": "Turismo",
+      "d": "Mineração",
+      "e": "Educação"
+    }
+  },
+  {
+    "number": 42,
+    "question": "O que deve ser priorizado na fabricação de novos veículos?",
+    "options": {
+      "a": "Potência do motor",
+      "b": "Eficiência energética e sustentabilidade",
+      "c": "Redução de custo de produção",
+      "d": "Aumento da capacidade do tanque de combustível",
+      "e": "Uso de materiais mais baratos"
+    }
+  },
+  {
+    "number": 43,
+    "question": "A lei prevê mudanças em qual decreto-lei?",
+    "options": {
+      "a": "Decreto-Lei nº 1.804/1980",
+      "b": "Decreto-Lei nº 5.678/1995",
+      "c": "Decreto-Lei nº 9.455/1997",
+      "d": "Decreto-Lei nº 3.333/2001",
+      "e": "Decreto-Lei nº 7.250/2005"
+    }
+  },
+  {
+    "number": 44,
+    "question": "Qual tipo de veículo é beneficiado pelo IPI Verde?",
+    "options": {
+      "a": "Carros esportivos",
+      "b": "Carros movidos a carvão",
+      "c": "Veículos que atendem critérios sustentáveis",
+      "d": "Motos convencionais",
+      "e": "Veículos antigos"
+    }
+  },
+  {
+    "number": 45,
+    "question": "Qual entidade deve garantir o cumprimento das metas do Programa Mover?",
+    "options": {
+      "a": "Apenas montadoras de veículos",
+      "b": "O Ministério do Meio Ambiente",
+      "c": "Um grupo de acompanhamento multissetorial",
+      "d": "Universidades federais",
+      "e": "Câmaras municipais"
+    }
+  },
+  {
+    "number": 46,
+    "question": "Como a Lei nº 14.902 contribui para o meio ambiente?",
+    "options": {
+      "a": "Incentivando o uso de combustíveis fósseis",
+      "b": "Aumentando a exportação de veículos movidos a diesel",
+      "c": "Reduzindo emissões de gases poluentes",
+      "d": "Duplicando estradas em áreas protegidas",
+      "e": "Diminuindo a produção de carros híbridos"
+    }
+  },
+  {
+    "number": 47,
+    "question": "O que acontece com empresas que não cumprem as metas do Programa Mover?",
+    "options": {
+      "a": "São premiadas com incentivos fiscais",
+      "b": "Recebem novas licenças de operação",
+      "c": "Podem ser multadas ou suspensas",
+      "d": "Ganham mais prazos para adequação",
+      "e": "Nada acontece"
+    }
+  },
+  {
+    "number": 48,
+    "question": "O que representa a inovação no Programa Mover?",
+    "options": {
+      "a": "A produção de mais veículos tradicionais",
+      "b": "O aumento no uso de plásticos nos carros",
+      "c": "A criação de novas tecnologias sustentáveis",
+      "d": "A redução da fiscalização ambiental",
+      "e": "O aumento das taxas alfandegárias"
+    }
+  },
+  {
+    "number": 49,
+    "question": "Qual é um dos principais benefícios econômicos do Programa Mover?",
+    "options": {
+      "a": "Aumento no preço dos veículos",
+      "b": "Redução da dependência de combustíveis fósseis",
+      "c": "Maior consumo de gasolina",
+      "d": "Incentivo ao desmatamento",
+      "e": "Redução na fabricação de carros elétricos"
+    }
+  },
+  {
+    "number": 50,
+    "question": "Qual é o impacto esperado da Lei nº 14.902 para o futuro?",
+    "options": {
+      "a": "Aumento das emissões de gases poluentes",
+      "b": "Redução do uso de tecnologias sustentáveis",
+      "c": "Maior produção de veículos menos poluentes",
+      "d": "Dependência total de combustíveis fósseis",
+      "e": "Desvalorização do mercado automotivo"
+    }
+  }
+]
