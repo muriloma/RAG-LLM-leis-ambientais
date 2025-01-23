@@ -44,7 +44,7 @@ O trabalho iniciou com a coleta de textos legais diretamente do site oficial do 
 - Elaboração de 50 perguntas finais focadas em tópicos jurídicos específicos
 
 #### 3. Treinamento e Teste do Modelo
-
+[Treinamento detalhado](./llm-project-tutorial.md)
 ---
 
 ### Resultados e Discussão
