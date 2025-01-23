@@ -1,7 +1,7 @@
 import json
 
 # Carregar as questões em formato JSON
-with open('c:/dev/estudos/LLM/RAG/docs/1-10.json', 'r', encoding='utf-8') as f:
+with open('./data/input/questoes.json', 'r', encoding='utf-8') as f:
     questions = json.load(f)
 
 # Verificar as primeiras perguntas carregadas
