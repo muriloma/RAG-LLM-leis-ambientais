@@ -1,17 +1,33 @@
+import sys
 import json
 import csv
+import os
+
+from perguntar_modelo import choosen_model, output_file
+from normalizar_respostas import normalized_output_file
 
 #ALTERAR ARQUIVOS NAS LINHAS 6 e 9
 
-output_csv_file = 'comparisons_qwen.csv'  # Arquivo CSV de saída
 
 
-with open('c:/dev/estudos/LLM/RAG/respostas_qwen.json', 'r', encoding='utf-8') as f:
-    model_responses_file = json.load(f)
+normalized = input("Foi necessário normalizar as respostas? (s/n): ").strip().lower()
 
+while normalized not in ['s', 'n']:
+    print("Resposta inválida. Por favor, digite 's' para sim ou 'n' para não.")
+    normalized = input("Foi necessário normalizar as respostas? (s/n): ").strip().lower()
 
-with open('C:\dev\estudos\LLM\RAG\docs\gabarito.json', 'r', encoding='utf-8') as f:
+if normalized == 's':
+    with open(normalized_output_file, 'r', encoding='utf-8') as f:
+        model_responses_file = json.load(f)
+
+if normalized == 'n':
+    with open(output_file, 'r', encoding='utf-8') as f:
+        model_responses_file = json.load(f)
+
+with open('./data/input/gabarito.json', 'r', encoding='utf-8') as f:
     correct_answers_file = json.load(f)
+
+
 
 
 # Função para comparar as respostas e gerar o CSV
@@ -60,9 +76,10 @@ def calculate_accuracy_from_csv(csv_file):
     return accuracy_percentage, total_questions, correct_answers
 
 
+output_csv_file = f'./data/output/comparisons_{choosen_model}.csv'  # Arquivo CSV de saída
+
 # Executar a função para comparar e gerar o CSV
 compare_and_save_to_csv(model_responses_file, correct_answers_file, output_csv_file)
-
 
 # Calcular a porcentagem de acertos a partir do arquivo CSV gerado
 accuracy_percentage, total_questions, correct_answers = calculate_accuracy_from_csv(output_csv_file)
