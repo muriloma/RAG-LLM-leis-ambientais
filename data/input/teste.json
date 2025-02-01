@@ -9,5 +9,27 @@
       "d": "Decreto-Lei nº 3.333/2001",
       "e": "Decreto-Lei nº 7.250/2005"
     }
+  },
+  {
+    "number": 1,
+    "question": "Qual é o principal objetivo da Lei nº 14.850/2024?",
+    "options": {
+      "a": "Regular o uso de recursos hídricos",
+      "b": "Instituir a Política Nacional de Qualidade do Ar",
+      "c": "Controlar a emissão de gases de efeito estufa",
+      "d": "Estabelecer normas para o desmatamento",
+      "e": "Definir políticas de saneamento básico"
+    }
+  },
+  {
+    "number": 18,
+    "question": "Qual é a principal meta do Proconve?",
+    "options": {
+      "a": "Reduzir o uso de combustíveis fósseis",
+      "b": "Diminuir a emissão de poluentes por veículos",
+      "c": "Aumentar a produção de carros elétricos",
+      "d": "Melhorar a infraestrutura urbana",
+      "e": "Fiscalizar indústrias"
+    }
   }
 ]
