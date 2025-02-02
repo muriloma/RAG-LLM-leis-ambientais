@@ -1,0 +1,11 @@
+Questão,Resposta Modelo 1,Resposta Modelo 2,Resposta Correta,Resultado Modelo 1,Resultado Modelo 2
+1,e),a,c,False,False
+2,c,c,c,True,True
+3,d,d,d,True,True
+4,b,b,b,True,True
+5,b,b,b,True,True
+6,c,c,c,True,True
+7,b,b,b,True,True
+8,b,b,b,True,True
+9,a,a,a,True,True
+10,d,d,a,False,False
