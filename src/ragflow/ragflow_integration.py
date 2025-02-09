@@ -65,8 +65,8 @@ def ask_llama(question, options):
     prompt = f"Pergunta: {question}\nEscolha a alternativa correta entre as opções. A reposta deve conter apenas a letra da alternativa escolhida e mais nenhum texto.\n É obrigatório escolher uma das alternativas abaixo, mesmo que você não saiba qual é a resposta correta, é obrigatório escolher uma alternativa:\n{options_text}\n"
 
     resposta = ask_ragflow(prompt, ep, headers)    
-
-    while len(resposta) > 1:
+    print(f"Resposta do modelo: {resposta}")
+    while len(resposta) > 2:
         resposta = normalize_answers(resposta)
 
     return resposta
@@ -135,7 +135,7 @@ def compare_and_save_to_csv(model_responses_file, correct_answers_file, output_c
     # Comparar as respostas do modelo com as respostas corretas
     for response in model_responses_file:
         question_number = response['number']
-        model_answer = response['answer'].lower()  # Resposta do modelo em letras maiúsculas
+        model_answer = response['answer'].lower().replace('.','')  # Resposta do modelo em letras maiúsculas
         correct_answer = correct_dict.get(question_number)  # Resposta correta (se existir)
 
         # Comparar as respostas
