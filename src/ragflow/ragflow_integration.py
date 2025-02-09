@@ -73,7 +73,7 @@ def ask_llama(question, options):
 
 def normalize_answers(answer):
     prompt = f"Dada a seguinte resposta abaixo, retorne apenas a letra da alternativa escolhida e nenhum caractere a mais:\n\nResposta: {answer}\n"
-    resposta = ask_ragflow(prompt)
+    resposta = ask_ragflow(prompt, ep, headers)
     return resposta
 
 # Lista para armazenar as respostas
@@ -109,6 +109,7 @@ output_file = f'{output_dir}/respostas_{choosen_model}_Ragflow.json'
 # Cria o diretório de saída se ele não existir
 os.makedirs(output_dir, exist_ok=True)
 
+# Cria o arquivo de saída com as respostas em formato JSON
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(answers, f, ensure_ascii=False, indent=4)
 
@@ -167,8 +168,8 @@ def calculate_accuracy_from_csv(csv_file):
     accuracy_percentage = (correct_answers / total_questions) * 100 if total_questions > 0 else 0
     return accuracy_percentage, total_questions, correct_answers
 
-
-output_csv_file = f'./data/output/comparisons_{choosen_model}.csv'  # Arquivo CSV de saída
+# Arquivo CSV de saída
+output_csv_file = f'./data/output/comparisons_{choosen_model}.csv'  
 
 # Executar a função para comparar e gerar o CSV
 compare_and_save_to_csv(model_responses_file, correct_answers_file, output_csv_file)
